@@ -15,7 +15,7 @@ My goal is to become a skilled software developer who can create useful, creativ
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,postgresql,mysql,sql,git,github,vscode,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,postgresql,mysql,git,github,vscode,html,css,js" />
 </p>
 
 ---
