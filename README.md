@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Dhellmar 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=IT+Student+%F0%9F%92%BB;Aspiring+Developer+%F0%9F%9A%80;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer+Student+%F0%9F%92%BB;Aspiring+Developer+%F0%9F%9A%80;Always+learning+something+new;Malupet+na+Hacker%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
