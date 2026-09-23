@@ -1,13 +1,13 @@
-<h1 align="center">Kumusta nga kaibigan, I am Dhell :> </h1>
+<h1 align="center">Kumusta mga kaibigan, I am Dhell :></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer+Science+%F0%9F%92%BB;Aspiring+Developer+%F0%9F%9A%80;joker+inside+of+you+computer:>;Malupet+na+Hacker%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer+Science+%F0%9F%92%BB;Aspiring+Developer+%F0%9F%9A%80;Joker+inside+your+computer+%3A%3E;Malupet+na+Hacker+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🙋‍♂️ About Me
- I enjoy VibeCoding, building websites, applications, and games while continuously improving my coding skills.
+I enjoy vibe coding and building websites, applications, and games while continuously improving my coding skills.
 
 My goal is to become a skilled software developer who can create useful, creative, and innovative systems. I'm always open to learning new things, challenging myself, and improving my skills one project at a time.
 
@@ -15,7 +15,7 @@ My goal is to become a skilled software developer who can create useful, creativ
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,C++,C#,postgresql,mysql,git,github,vscode,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,postgresql,mysql,sql,git,github,vscode,html,css,js" />
 </p>
 
 ---
@@ -32,4 +32,4 @@ My goal is to become a skilled software developer who can create useful, creativ
 
 ---
 
-<p align="center">⭐ Hastalavista!</p>
+<p align="center">⭐ Hasta la vista!</p>
