@@ -15,7 +15,19 @@ My goal is to become a skilled software developer who can create useful, creativ
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,js,html,css,php,react,nodejs,tailwind,postgresql,mysql,unity,figma,git,github,vscode,idea,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,c,js,html,css,php,react,postgresql,mysql,unity,git,github,vscode,linux,kali,bash,powershell&perline=10" />
+</p>
+
+---
+
+### 🕵️ Cybersecurity
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
 </p>
 
 ---
