@@ -1,7 +1,7 @@
 <h1 align="center">Kumusta mga kaibigan, I am Dhell :></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer+Science+%F0%9F%92%BB;Aspiring+Developer+%F0%9F%9A%80;Joker+inside+your+computer+%3A%3E;Malupet+na+Hacker+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer+Science+%F0%9F%92%BB;Aspiring+Developer+%F0%9F%9A%80;The+Joker+inside+of+your+computer+%3A%3E;Malupet+na+Hacker+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
