@@ -7,17 +7,15 @@
 ---
 
 ### 🙋‍♂️ About Me
-- 🎓 [Course / Year, e.g. BSIT 2nd Year] at [School]
-- 🌱 Currently learning **[e.g. JavaScript, Java, SQL]**
-- 🔨 Working on **[project mo, e.g. a school website / management system]**
-- ♟️ Fun fact: [e.g. mahilig ako mag-chess]
-- 📫 Reach me: [email or Instagram link]
+ I enjoy VibeCoding, building websites, applications, and games while continuously improving my coding skills.
+
+My goal is to become a skilled software developer who can create useful, creative, and innovative systems. I'm always open to learning new things, challenging myself, and improving my skills one project at a time.
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,C++,C#,postgresql,mysql,git,github,vscode,html,css,js" />
 </p>
 
 ---
@@ -34,4 +32,4 @@
 
 ---
 
-<p align="center">⭐ Thanks for visiting my profile!</p>
+<p align="center">⭐ Hastalavista!</p>
