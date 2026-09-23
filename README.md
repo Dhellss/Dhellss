@@ -17,7 +17,7 @@ My goal is to become a skilled software developer who can create useful, creativ
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,c,js,html,css,php,react,postgresql,mysql,unity,git,github,vscode,linux,kali,bash,powershell&perline=10" />
 </p>
-
+<!--
 ---
 
 ### 🕵️ Cybersecurity
@@ -29,7 +29,7 @@ My goal is to become a skilled software developer who can create useful, creativ
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   <img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
 </p>
-
+-->
 ---
 
 ### 📊 GitHub Stats
