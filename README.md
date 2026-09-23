@@ -30,7 +30,6 @@ My goal is to become a skilled software developer who can create useful, creativ
   <img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
 </p>
 -->
----
 
 ### 📊 GitHub Stats
 <p align="center">
