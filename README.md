@@ -1,46 +1,126 @@
-<h1 align="center">Kumusta mga kaibigan, I am Dhell :></h1>
+
+<h1 align="center">Hi, I'm Dhell 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer+Science+%F0%9F%92%BB;Aspiring+Developer+%F0%9F%9A%80;The+Joker+inside+of+your+computer+%3A%3E;Malupet+na+Hacker+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
-
----
-
-### 🙋‍♂️ About Me
-I enjoy vibe coding and building websites, applications, and games while continuously improving my coding skills.
-
-My goal is to become a skilled software developer who can create useful, creative, and innovative systems. I'm always open to learning new things, challenging myself, and improving my skills one project at a time.
-
----
-
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,c,js,html,css,php,react,postgresql,mysql,unity,git,github,vscode,linux,kali,bash,powershell&perline=10" />
-</p>
-<!--
----
-
-### 🕵️ Cybersecurity
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
-</p>
--->
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dhellss&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhellss&layout=compact&theme=tokyonight&hide_border=true" />
+  <strong>Computer Science Student • Aspiring Software Developer</strong>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhellss&theme=tokyonight&hide_border=true" />
+  Building websites, applications, and systems while learning
+  software development one project at a time.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Dhellss">
+    <img src="https://img.shields.io/badge/GitHub-Dhellss-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://linux-system-observatory.example">
+    <img src="https://img.shields.io/badge/Focus-Software%20Development-58A6FF?style=for-the-badge" alt="Software Development">
+  </a>
 </p>
 
 ---
 
-<p align="center">⭐ Hasta la vista!</p>
+## 👨‍💻 About Me
+
+I'm Dhell, a Computer Science student interested in building
+software, web applications, and interactive systems.
+
+I enjoy learning through hands-on projects, exploring new
+technologies, and improving my problem-solving skills through code.
+
+My current interests include:
+
+- Software and application development
+- Web development
+- System monitoring and Linux
+- Game development
+- Exploring programming languages and developer tools
+
+> My goal is to build software that is useful, creative, and
+> continuously improve my skills as a developer.
+
+---
+
+## 🚀 Featured Projects
+
+### 🖥️ Linux System Observatory
+
+A Linux system monitoring application designed to provide
+system insights through a dedicated graphical interface.
+
+- **Focus:** Linux, system monitoring, application development
+- **Repository:** [View Project](https://github.com/Dhellss/linux-system-observatory)
+
+### 🤖 MALHKR
+
+A personal AI chatbot project exploring local AI interaction
+and conversational interfaces.
+
+- **Focus:** Python, local AI, web interfaces
+- **Status:** Personal development project
+
+### 🎮 Game Development
+
+Exploring game development through Unity and interactive
+gameplay systems.
+
+- **Focus:** Unity, C#, gameplay programming
+- **Interests:** Game mechanics, enemy systems, and progression
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,cs,js" alt="Programming Languages">
+</p>
+
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,php,react" alt="Web Development">
+</p>
+
+### Databases & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode" alt="Development Tools">
+</p>
+
+### Operating Systems & Game Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,powershell,unity" alt="Operating Systems and Game Development">
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dhellss&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhellss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- Build and publish meaningful software projects
+- Improve my programming and problem-solving skills
+- Learn software architecture and development practices
+- Create projects that demonstrate practical technical skills
+- Continue growing as a Computer Science student
+
+---
+
+<p align="center">
+  <i>Learning. Building. Improving.</i>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile!
+</p>
