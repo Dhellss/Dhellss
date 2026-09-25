@@ -101,8 +101,8 @@ gameplay systems.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dhellss&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhellss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SkieeTheGreat&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkieeTheGreat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </p>
 
 ---
