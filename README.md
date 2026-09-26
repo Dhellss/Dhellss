@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Dhell 👋</h1>
 
 <p align="center">
-  <strong>Computer Science Student • Aspiring Software Developer</strong>
+  <strong>Computer Science • Aspiring Software Developer</strong>
 </p>
 
 <p align="center">
