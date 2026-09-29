@@ -22,7 +22,7 @@ I build things, put them online, then fix whatever breaks.
 |---|---|
 | 🖥️ **[Linux System Observatory](https://github.com/Dhellss/linux-system-observatory)** | Desktop system monitor for Linux · `Python` `Qt` |
 | 🎓 **[Student Management System](https://github.com/Dhellss/student-management-system)** | Students, grades and GWA · `Flask` `SQLite` |
-| 🎮 **[7 Browser Games](https://mlkhr.netlify.app/#projects)** | Playable instantly, no install · `JavaScript` |
+| 🎮 **[ Browser Games](https://mlkhr.netlify.app/#projects)** | Playable instantly, no install · `JavaScript` |
 | 🗄️ **[SQDhell](https://dhellss.github.io/SQL-Learning/)** | Interactive SQL tutorial · `JavaScript` |
 
 <div align="center">
