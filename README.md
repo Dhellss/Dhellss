@@ -16,7 +16,7 @@ I build things, put them online, then fix whatever breaks.
 
 ---
 
-## 🚀 Projects
+## 🚀 Project
 
 | | |
 |---|---|
