@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felicianomahilum@gmail.com)
 
 CS student at the **University of the Cordilleras**.<br>
-I build things, put them online, then fix whatever breaks.
+I love the creation — building things, putting them online, then fixing whatever breaks.
 
 </div>
 
