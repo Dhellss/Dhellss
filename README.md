@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="DHELL — Computer Science Student · Game &amp; Web Developer · Aspiring Ethical Hacker · sheesh" />
+  <img src="./assets/banner.svg" width="100%" alt="DHELL — Computer Science Student · Game &amp; Web Developer · Aspiring Ethical Hacker " />
 </p>
 
 <p align="center">
@@ -102,7 +102,7 @@
   <br /><br />
   <img src="https://skillicons.dev/icons?i=linux,kali,git,github,vscode,qt,unity,blender,java" alt="Linux, Kali, Git, GitHub, VS Code, Qt, Unity, Blender, Java" />
   <br /><br />
-  <code>[ DOWNLOADING... ▓▓▓▓▓▓░░░░ ]</code>
+  <code>[ DOWNLOADING.... ▓▓▓▓▓▓░░░░ ]</code>
   <br /><br />
   <img src="https://skillicons.dev/icons?i=cs,cpp,docker,tailwind" alt="C#, C++, Docker, Tailwind" />
 </p>
