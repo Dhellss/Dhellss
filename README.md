@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="DHELL — Computer Science Student · Game &amp; Web Developer · Aspiring Ethical Hacker " />
+  <img src="./assets/banner.svg" width="100%" alt="DHELL — Computer Science Student · Game &amp; Web Developer · Aspiring Ethical Hacker · Programmer " />
 </p>
 
 <p align="center">
