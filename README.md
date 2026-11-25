@@ -1,24 +1,24 @@
 <!--
-  ┌──(dhell@uc)-[~/profile]
-  └─$ every image in ./assets is an animated SVG generated for this README.
+  Dhell — GitHub profile
+  every image in ./assets is an animated SVG generated for this README.
       the snake comes from .github/workflows/snake.yml (it fills the "output" branch).
 -->
 
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="DHELL — Computer Science Student · Game &amp; Web Developer · Aspiring Ethical Hacker · Programmer " />
+  <img src="./assets/banner.svg" width="100%" alt="DHELL — Computer Science Student · Software Developer · Game &amp; Web Developer " />
 </p>
 
 <p align="center">
-  <a href="https://mlkhr.netlify.app"><img src="https://img.shields.io/badge/%3E__PORTFOLIO-mlkhr.netlify.app-00FF41?style=for-the-badge&logo=netlify&logoColor=00FF41&labelColor=0A0F0A" alt="Portfolio" /></a>
-  <a href="mailto:felicianomahilum@gmail.com"><img src="https://img.shields.io/badge/%3E__CONTACT-send__packet-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0A0F0A" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Dhellss&label=INTRUDERS%20DETECTED&color=00FF41&style=for-the-badge" alt="Profile views" />
+  <a href="https://mlkhr.netlify.app"><img src="https://img.shields.io/badge/Portfolio-mlkhr.netlify.app-9BB8FF?style=for-the-badge&logo=netlify&logoColor=9BB8FF&labelColor=161521" alt="Portfolio" /></a>
+  <a href="mailto:felicianomahilum@gmail.com"><img src="https://img.shields.io/badge/Email-say_hi-FFB5A7?style=for-the-badge&logo=gmail&logoColor=FFB5A7&labelColor=161521" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Dhellss&label=Profile%20views&color=9BB8FF&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
   <img src="./assets/terminal.svg" width="100%" alt="$ whoami → Dhell, Computer Science student at the University of the Cordilleras. $ cat mission.txt → I love the creation — building things, putting them online, then fixing whatever breaks." />
 </p>
 
-<img src="./assets/sections/01-apps.svg" width="100%" alt="0x01 — Apps &amp; Tools" />
+<img src="./assets/sections/01-apps.svg" width="100%" alt="01 — Apps &amp; Tools" />
 
 <p align="center">
   <a href="https://github.com/Dhellss/LifeOS"><img src="./assets/cards/lifeos.svg" width="49%" alt="LifeOS — Tasks, projects, habits, study sessions and journals in one private workspace. Every number is a real query on your own rows — no placeholder data." /></a>
@@ -29,7 +29,7 @@
   <a href="https://github.com/Dhellss/MP4_to_MP3_Converter"><img src="./assets/cards/mp4-to-mp3.svg" width="49%" alt="MP4 → MP3 — A small video-to-music converter — turn MP4 videos into MP3 audio." /></a>
 </p>
 
-<img src="./assets/sections/02-games.svg" width="100%" alt="0x02 — Games" />
+<img src="./assets/sections/02-games.svg" width="100%" alt="02 — Games" />
 
 <p align="center">
   <a href="https://dhellss.github.io/dash-break/"><img src="./assets/cards/dash-break.svg" width="100%" alt="DASH//BREAK — isometric 3D bullet-hell arena (play in browser)" /></a>
@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <sub><code>$ ls ./source</code> &nbsp;→&nbsp;
+  <sub><b>Source</b> &nbsp;→&nbsp;
   <a href="https://github.com/Dhellss/dash-break">dash-break</a> ·
   <a href="https://github.com/Dhellss/Below_100m">Below_100m</a> ·
   <a href="https://github.com/Dhellss/tetris">tetris</a> ·
@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <b><code>// smaller arcade payloads</code></b><br />
+  <b><b>smaller games</b></b><br />
   <a href="https://dhellss.github.io/pulse/"><code>pulse</code></a> ·
   <a href="https://dhellss.github.io/patrol/"><code>patrol</code></a> ·
   <a href="https://dhellss.github.io/keycrack/"><code>keycrack</code></a> ·
@@ -59,7 +59,7 @@
   <a href="https://dhellss.github.io/ProjectBato/"><code>Project Bato</code></a>
 </p>
 
-<img src="./assets/sections/03-worlds.svg" width="100%" alt="0x03 — Portfolio Worlds" />
+<img src="./assets/sections/03-worlds.svg" width="100%" alt="03 — Portfolio Worlds" />
 
 <p align="center">
   <a href="https://dhellss.github.io/Network/"><img src="./assets/worlds.svg" width="100%" alt="Portfolio worlds — one set of content, seven different worlds" /></a>
@@ -78,7 +78,7 @@
   <a href="https://dhellss.github.io/Readme/"><code>Readme</code></a>
 </p>
 
-<img src="./assets/sections/04-sql.svg" width="100%" alt="0x04 — Sql In Public" />
+<img src="./assets/sections/04-sql.svg" width="100%" alt="04 — SQL In Public" />
 
 <p align="center">
   <a href="https://dhellss.github.io/SQL-Learning/"><img src="./assets/sql.svg" width="100%" alt="mysql> SELECT project, description FROM learning_in_public;" /></a>
@@ -88,29 +88,29 @@
   <a href="https://dhellss.github.io/SQL-Learning/"><b>SQDhell</b></a> — interactive SQL tutorial &nbsp;·&nbsp;
   <a href="https://dhellss.github.io/SQL-Practice/"><b>SQL Practice</b></a> — terminal-themed MySQL playground
   <br /><br />
-  <a href="https://mlkhr.netlify.app"><b>→ ssh into everything at once: my portfolio</b></a>
+  <a href="https://mlkhr.netlify.app"><b>→ See everything on my portfolio</b></a>
 </p>
 
-<img src="./assets/sections/05-arsenal.svg" width="100%" alt="0x05 — Arsenal" />
+<img src="./assets/sections/05-toolbox.svg" width="100%" alt="05 — Toolbox" />
 
 <p align="center">
-  <code>[ LOADED ]</code>
+  <b>Using now</b>
   <br /><br />
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,threejs,html,css,vite,flask,prisma,postgres,sqlite,mysql&perline=7" alt="Python, JavaScript, TypeScript, React, Next.js, Three.js, HTML, CSS, Vite, Flask, Prisma, PostgreSQL, SQLite, MySQL" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,threejs,html,css,vite,tailwind,flask,prisma,postgres,sqlite,mysql,docker&perline=8" alt="Python, JavaScript, TypeScript, React, Next.js, Three.js, HTML, CSS, Vite, Tailwind, Flask, Prisma, PostgreSQL, SQLite, MySQL, Docker" />
   <br /><br />
-  <code>[ ENVIRONMENT ]</code>
+  <b>Tools I work in</b>
   <br /><br />
-  <img src="https://skillicons.dev/icons?i=linux,kali,git,github,vscode,qt,unity,blender,java" alt="Linux, Kali, Git, GitHub, VS Code, Qt, Unity, Blender, Java" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,qt,unity,blender" alt="Linux, Git, GitHub, VS Code, Qt, Unity, Blender" />
   <br /><br />
-  <code>[ DOWNLOADING.... ▓▓▓▓▓▓░░░░ ]</code>
+  <b>Learning next</b>
   <br /><br />
-  <img src="https://skillicons.dev/icons?i=cs,cpp,docker,tailwind" alt="C#, C++, Docker, Tailwind" />
+  <img src="https://skillicons.dev/icons?i=java,cs,cpp" alt="Java, C#, C++" />
 </p>
 
-<img src="./assets/sections/06-telemetry.svg" width="100%" alt="0x06 — Telemetry" />
+<img src="./assets/sections/06-activity.svg" width="100%" alt="06 — Activity" />
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Dhellss&hide_border=true&background=0A0F0A&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=7EE787&dates=3FB950&stroke=0E3B1A" height="165" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=Dhellss&hide_border=true&background=161521&ring=9BB8FF&fire=FFB5A7&currStreakNum=E6ECFF&sideNums=E6ECFF&currStreakLabel=9BB8FF&sideLabels=B4B8D4&dates=8E89A8&stroke=2B2A3F" height="165" alt="GitHub streak stats" />
 </p>
 
 <picture>
@@ -120,5 +120,5 @@
 </picture>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="session terminated — thanks for visiting, leave a star on your way out" />
+  <img src="./assets/footer.svg" width="100%" alt="thanks for visiting — leave a star on your way out" />
 </p>
