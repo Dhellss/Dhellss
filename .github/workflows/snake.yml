@@ -1,11 +1,14 @@
+# Generates the contribution-snake SVG onto the "output" branch.
+# The current README does not display it, so this runs on demand only.
+# To bring it back, uncomment the schedule block and add the <picture>
+# element from the previous README (commit 09f42cf).
+
 name: Generate snake animation
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches: [main]
+  # schedule:
+  #   - cron: "0 */12 * * *"
 
 jobs:
   generate:
