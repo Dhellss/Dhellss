@@ -60,7 +60,6 @@ Learn by building. Finish it, ship it, then find out what broke.
 
 - **Portfolio** — [mlkhr.netlify.app](https://mlkhr.netlify.app)
 - **Email** — [felicianomahilum@gmail.com](mailto:felicianomahilum@gmail.com)
-- **GitHub** — [@Dhellss](https://github.com/Dhellss)
 
 <!--
   Project showcase is intentionally omitted — see assets/ and the previous
