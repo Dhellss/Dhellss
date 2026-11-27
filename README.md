@@ -1,8 +1,10 @@
 # Dhellskieee
 
-`Software Developer` · `Computer Science Student`
+`Software Developer` · `Linux Ricer` · `Creative Developer` · `Computer Science Student`
 
 I build software and try to understand what runs underneath it — desktop tools, backend services, and the occasional game. Most of what I know came from building something, breaking it, and working out why.
+
+I also love making computers look good: terminal themes, prompts, boot animations and ASCII art. In Linux terms, I'm a ricer — I design the look, then write the code that makes it run.
 
 Computer Science at the University of the Cordilleras. Based in the Philippines.
 
@@ -19,6 +21,7 @@ Areas I work in and keep developing — interests and direction, not claims of e
 | **Backend Development** | APIs, data modelling, server-side logic |
 | **Game Development** | Real-time loops, physics, rendering |
 | **Artificial Intelligence** | Applied and practical rather than research |
+| **Linux Ricing & Theming** | Terminal themes, color palettes, animated boot sequences, ASCII art |
 
 ---
 
@@ -35,6 +38,17 @@ Areas I work in and keep developing — interests and direction, not claims of e
 
 **Tools & Environment**
 `Git` `GitHub` `Linux` `Docker` `VS Code` `Qt`
+
+**Ricing**
+`Arch Linux` `kitty` `zsh` `starship` `fastfetch` `Bash`
+
+---
+
+## Featured
+
+**[Terminal-skin](https://github.com/Dhellss/Terminal-skin)** — 12 terminal themes for Arch Linux (hacker, galaxy, heaven and hell). Each one is a full kit: kitty, zsh, starship, fastfetch and an animated boot sequence, installed with one command.
+
+[![Terminal-skin](https://raw.githubusercontent.com/Dhellss/Terminal-skin/main/previews/11-inferno-sh.png)](https://github.com/Dhellss/Terminal-skin)
 
 ---
 
@@ -62,8 +76,8 @@ Learn by building. Finish it, ship it, then find out what broke.
 - **Email** — [felicianomahilum@gmail.com](mailto:felicianomahilum@gmail.com)
 
 <!--
-  Project showcase is intentionally omitted — see assets/ and the previous
-  README at commit 09f42cf if you want to restore the illustrated version.
+  Project showcase is intentionally omitted. The old illustrated version
+  (assets/ and the snake workflow) was removed; restore it from commit 09f42cf.
 
   To add a small, curated showcase later, keep it to three repositories:
 
