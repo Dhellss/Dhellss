@@ -72,7 +72,6 @@ Learn by building. Finish it, ship it, then find out what broke.
 
 ## Connect
 
-- **Portfolio** — [mlkhr.netlify.app](https://mlkhr.netlify.app)
 - **Email** — [felicianomahilum@gmail.com](mailto:felicianomahilum@gmail.com)
 
 <!--
